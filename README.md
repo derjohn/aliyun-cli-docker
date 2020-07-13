@@ -17,3 +17,10 @@ This will run aliyun configure:
 This will help you to make the docker image to act as aliyun cli command:
 ```make alias```
 
+## Public build by aliyum
+FYI: There is a build available from a public URL:
+
+https://ci.appveyor.com/project/aliyun/aliyun-cli
+
+I didn't check the details, but it's more transparent what's inside.
+
